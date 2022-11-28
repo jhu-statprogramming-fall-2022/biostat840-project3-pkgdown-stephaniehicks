@@ -1,0 +1,16 @@
+url: ~
+template:
+  bootstrap: 5
+  bootswatch: materia
+
+
+navbar:
+ components:
+   articles:
+    text: Articles
+    menu:
+    - text: Category A
+    - text: An introduction to mbkmeans
+      href: articles/Vignette.html
+    - text: Example data analysis
+      href: articles/example_analysis.html

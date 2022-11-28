@@ -1,0 +1,21 @@
+---
+title: "Example analysis"
+author: "Stephanie Hicks"
+output:
+  BiocStyle::html_document:
+    toc: true
+vignette: >
+  %\VignetteEncoding{UTF-8}
+---
+
+<!--
+%\VignetteEngine{knitr::rmarkdown}
+%\VignetteIndexEntry{mbkmeans vignette}
+-->
+
+# Installation
+
+```{r}
+plot(1:10)
+```
+

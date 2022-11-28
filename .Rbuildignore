@@ -7,3 +7,6 @@ benchmarking
 notes
 ^.git
 ^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
